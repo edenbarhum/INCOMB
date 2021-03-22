@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729684814664",
+    "project_id": "incomb-e702e",
+    "storage_bucket": "incomb-e702e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729684814664:android:b573059805a3e4190f617d",
+        "android_client_info": {
+          "package_name": "Com.INCOMB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729684814664-daq9pvgsa4uvjmugetkgdq41c43c0f4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmirpu8X4Y4aOdA0LSRPgC26NzQYznFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729684814664-daq9pvgsa4uvjmugetkgdq41c43c0f4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

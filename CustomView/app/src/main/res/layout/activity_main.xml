@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.barhum.customview.view.CustomView
+        android:id="@+id/custom_view"
+        android:layout_width="match_parent"
+        app:square_color="@color/squareColor"
+        app:square_size="150dp"
+        android:layout_height="350dp" />
+
+    <Button
+        android:id="@+id/btn_swap_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SWAP COLOR"
+        android:layout_below="@+id/custom_view"/>
+
+
+</RelativeLayout>
