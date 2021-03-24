@@ -181,8 +181,9 @@
                 android:textSize="13.3sp" />
 
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:id="@+id/tv_sign_up"
+                android:layout_width="31dp"
+                android:layout_height="match_parent"
                 android:layout_marginLeft="5dp"
                 android:gravity="center_horizontal"
                 android:text="Sign Up"
